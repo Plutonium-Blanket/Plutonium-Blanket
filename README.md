@@ -1,6 +1,6 @@
 ## Hey there! 👋
 
-I started out as a ServiceNow Administrator and worked my way up to ServiceNow Developer - now I get to build cool stuff instead of just managing them!
+I began as a ServiceNow Administrator and worked my way up to ServiceNow Developer - now I get to build cool stuff instead of just managing them!
 
 This GitHub is where I keep my ServiceNow ✨projects, scripts, and experiments✨.
 
