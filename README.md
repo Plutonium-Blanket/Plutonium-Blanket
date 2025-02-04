@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hey there! 👋
+
+I started out as a ServiceNow Administrator and worked my way up to ServiceNow Developer - now I get to build cool stuff instead of just managing them!
+
+This GitHub is where I keep my ServiceNow ✨projects, scripts, and experiments✨.
+
+Watch this space for updates! 😎💥📚
 
 <!--
 **Plutonium-Blanket/Plutonium-Blanket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
